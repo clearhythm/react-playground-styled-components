@@ -1,7 +1,7 @@
 # React-Playground-Styled-Components
 Playground for working with styled components in React
 
-# About this Project
+# Boilerplate
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
